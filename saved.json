@@ -7,7 +7,7 @@
     "jailed_users": {},
     "forced_names": {},
     "afk_users": {},
-    "okok_enabled": true,
+    "okok_enabled": false,
     "blacklisted_links": [],
     "scam_exts": []
 }
