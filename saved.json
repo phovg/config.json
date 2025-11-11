@@ -17,7 +17,9 @@
             1428608736531976216
         ],
         "blacklisted_links": [],
-        "whitelisted_users": []
+        "whitelisted_users": [
+            1408288420094279722
+        ]
     },
     "1422637449049411644": {
         "stripped_roles": {},
@@ -35,5 +37,15 @@
         "whitelisted_users": [
             1408288420094279722
         ]
+    },
+    "1407152604051669174": {
+        "stripped_roles": {},
+        "jailed_users": {},
+        "forced_names": {},
+        "afk_users": {},
+        "hv_state": {},
+        "snapped_users": [],
+        "blacklisted_links": [],
+        "whitelisted_users": []
     }
 }
